@@ -16,7 +16,7 @@ export const greetings: GreetingsType = {
   title: "Hi all, I'm Prakhar",
   description:
     "Backend-heavy engineer with expertise in building scalable and complex systems and deploying applications. Proven ability to lead projects and deliver client-focused solutions leveraging diverse technologies (Python, Django, PHP, Laravel, JavaScript, Express.js, TypeScript).",
-  resumeLink: "https://drive.google.com/file/d/1XzEkZIWh9UKexwk0X5ZJTaSJ_8VrbXyu/view?usp=sharing",
+  resumeLink: "https://drive.google.com/file/d/13ZUwwlYBzMdhRxc_yf0-QZ4WeHWvM8fp/view?usp=sharing",
 };
 
 export const openSource = {
